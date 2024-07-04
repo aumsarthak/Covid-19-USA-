@@ -66,4 +66,5 @@ Total Deaths: 21,138
 ➢States like Pennsylvania and Ohio have lower total cases relative to population, possibly due to effective containment measures.
 
 📌Conclusion
+
 ➢The dashboard effectively highlights the diverse impact of COVID-19 across US states. Larger states with higher populations experienced more significant case numbers but also demonstrate strong recovery efforts. Key insights reveal critical areas for ongoing health initiatives, particularly in states with higher active cases and death percentages. This data can inform policy decisions and resource allocation to manage and mitigate the pandemic's effects.
