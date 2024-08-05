@@ -1,4 +1,4 @@
-# Covid-19-USA-
+# Covid-19-USA-DASHBOARD
 🌟Excel Project
 👉I just created Microsoft Excel project of COVID - 19 US which shows the detailed attrition analysis of COVID in different regions.
  ▪ In this project, I collected data from COVID Worldometers and converted it into a dynamic dashboard
